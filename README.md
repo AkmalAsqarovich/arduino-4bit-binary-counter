@@ -25,7 +25,7 @@ LEDlar quyidagi pinlarga ulangan:
 
 
 ## 💻 Kod
-Kodni `src/main.cpp` yoki `binary_counter.ino` faylidan topishingiz mumkin. Asosiy mantiq `for` tsikli va bitlarni tekshirishga asoslangan.
+Kodni `uno.ino` faylidan topishingiz mumkin. Asosiy mantiq `for` tsikli va bitlarni tekshirishga asoslangan.
 
 ## 🛠 O'rnatish va ishga tushirish
 1. Ushbu repozitoriyani yuklab oling (`clone`).
